@@ -1,0 +1,8 @@
+{
+  "name": "echarts",
+  "homepage": "https://github.com/ecomfe/echarts",
+  "main": [
+    "dist/echarts.min.js"
+  ],
+  "version": "3.4.0",
+}
