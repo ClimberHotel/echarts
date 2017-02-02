@@ -2,7 +2,7 @@
   "name": "echarts",
   "homepage": "https://github.com/ecomfe/echarts",
   "main": [
-    "dist/echarts.min.js"
+    "dist/echarts.js"
   ],
   "version": "3.4.0"
 }
